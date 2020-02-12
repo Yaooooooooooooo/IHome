@@ -1,4 +1,4 @@
-Django==1.11.11
+Django==1.11.28
 django-redis==4.10.0
 mutagen==1.42.0
 Pillow==6.0.0
