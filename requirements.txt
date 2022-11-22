@@ -1,7 +1,7 @@
 Django==1.11.11
 django-redis==4.10.0
 mutagen==1.42.0
-Pillow==6.0.0
+Pillow==9.3.0
 PyMySQL==0.9.3
 redis==3.2.1
 requests==2.22.0
